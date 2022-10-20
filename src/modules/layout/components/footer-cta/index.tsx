@@ -8,7 +8,7 @@ const FooterCTA = () => {
         <div>
           <h3 className="text-2xl-semi">Shop the latest styles</h3>
           <div className="mt-6">
-            <UnderlineLink href="/store">Explore products</UnderlineLink>
+            <UnderlineLink href="/store">Explore art</UnderlineLink>
           </div>
         </div>
 

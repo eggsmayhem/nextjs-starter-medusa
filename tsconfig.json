@@ -29,7 +29,7 @@
     "cypress/support/index.js",
     "cypress/support/commands.js",
     "cypress/integration/product.spec.js",
-    "cypress/plugins/index.js",
+    "cypress/plugins/index.js"
   ],
   "exclude": [
     "node_modules",

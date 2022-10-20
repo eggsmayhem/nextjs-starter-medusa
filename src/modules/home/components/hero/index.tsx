@@ -3,7 +3,7 @@ import Image from "next/image"
 
 const Hero = () => {
   return (
-    <div className="h-[90vh] w-full relative">
+    <div className="h-[90vh] w-full relative mb-[-50px]">
       <div className="text-white absolute inset-0 z-10 flex flex-col justify-center items-center text-center small:text-left small:justify-end small:items-start small:p-32">
         <h1 className="text-2xl-semi mb-4 drop-shadow-md shadow-black">
           Summer styles are finally here
@@ -22,9 +22,10 @@ const Hero = () => {
         quality={90}
         objectFit="cover"
         alt="Photo by @thevoncomplex https://unsplash.com/@thevoncomplex"
-        className="absolute inset-0"
+        className="absolute inset-0 grayscale brightness-75"
         draggable="false"
       />
+      <div className="bottom-0 w-full h-10 absolute bg-red-600"></div>
     </div>
   )
 }

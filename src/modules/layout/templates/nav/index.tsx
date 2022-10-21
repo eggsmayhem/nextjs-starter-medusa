@@ -12,26 +12,6 @@ import { useEffect, useState } from "react"
 const Nav = () => {
   const { pathname } = useRouter()
   const [isHome, setIsHome] = useState(false)
-  const [isScrolled, setIsScrolled] = useState(false)
-
-  //useEffect that detects if window is scrolled > 5px on the Y axis
-  useEffect(() => {
-    if (isHome) {
-      const detectScrollY = () => {
-        if (window.scrollY > 5) {
-          setIsScrolled(true)
-        } else {
-          setIsScrolled(false)
-        }
-      }
-
-      window.addEventListener("scroll", detectScrollY)
-
-      return () => {
-        window.removeEventListener("scroll", detectScrollY)
-      }
-    }
-  }, [isHome])
 
   useEffect(() => {
     pathname === "/" ? setIsHome(true) : setIsHome(false)

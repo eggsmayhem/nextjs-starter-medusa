@@ -1,5 +1,6 @@
 import UnderlineLink from "@modules/common/components/underline-link"
 import Image from "next/image"
+import NextJsCarousel from "@modules/common/components/carousel"
 
 const FooterCTA = () => {
   return (
@@ -12,13 +13,8 @@ const FooterCTA = () => {
           </div>
         </div>
 
-        <div className="relative w-full aspect-square small:w-[35%] small:aspect-[28/36]">
-          <Image
-            src="/cta_three.jpg"
-            alt=""
-            layout="fill"
-            objectFit="cover"
-            className="absolute inset-0"
+        <div className="relative w-full aspect-square small:w-[50%] small:aspect-[28/36]">
+        <NextJsCarousel  
           />
         </div>
       </div>

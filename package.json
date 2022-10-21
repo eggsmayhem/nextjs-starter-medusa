@@ -40,6 +40,7 @@
     "react-instantsearch-hooks-web": "^6.29.0",
     "react-intersection-observer": "^9.3.4",
     "react-query": "^3.34.16",
+    "react-responsive-carousel": "^3.2.23",
     "sharp": "^0.30.7"
   },
   "devDependencies": {

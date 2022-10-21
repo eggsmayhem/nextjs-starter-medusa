@@ -9,30 +9,52 @@ export default class NextJsCarousel extends Component {
 			<Carousel>
 				<div>
 					<Image 
-					src="/decor1.jpg"
-					alt="image1"
+					src="/butterfly.jpg"
+					alt="decor item"
 					layout="fill"/>
 					<p className="legend">Decor</p>
 
 				</div>
+				
 				<div>
-					<img src="/decor2.webp" alt="image2" />
+					<img src="/eyetable.jpg" alt="decor item"  />
 					<p className="legend">Decor</p>
 
 				</div>
+				
 				<div>
-					<img src="/painting1.webp" alt="image3"/>
+					<img src="/Dialogue.jpg" alt="painting"/>
 					<p className="legend">Painting</p>
 
 				</div>
+
 				<div>
-					<img src="/sticker1.png" alt="image4"/>
+					<img src="/six.jpg" alt="painting" />
+					<p className="legend">Painting</p>
+
+				</div>
+				
+				<div>
+					<img src="/shit.jpg" alt="sticker" />
 					<p className="legend">Sticker</p>
 
 				</div>
+				
 				<div>
-					<img src="/sticker2.png" alt="image5"/>
+					<img src="/stickergroup.jpg" alt="sticker" />
 					<p className="legend">Sticker</p>
+
+				</div>
+
+				<div>
+					<img src="/crow.jpg" alt="tattoo" />
+					<p className="legend">Tattoo</p>
+
+				</div>
+
+				<div>
+					<img src="/love.jpg" alt="tattoo" />
+					<p className="legend">Tattoo</p>
 
 				</div>
 			</Carousel>

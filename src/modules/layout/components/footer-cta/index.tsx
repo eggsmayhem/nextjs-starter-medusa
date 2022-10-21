@@ -13,7 +13,7 @@ const FooterCTA = () => {
           </div>
         </div>
 
-        <div className="relative w-full aspect-square small:w-[35%] small:aspect-[28/36]">
+        <div className="relative w-full aspect-square small:w-[50%] small:aspect-[28/36]">
         <NextJsCarousel  
           />
         </div>

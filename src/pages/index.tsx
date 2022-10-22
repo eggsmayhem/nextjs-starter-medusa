@@ -9,8 +9,9 @@ const Home: NextPageWithLayout = () => {
   return (
     <>
       <Head
-        title="Home"
-        description="EyeBall is a mixed media artist, currently based out of California. Featuring a variety of styles, primarily dark surrealism."
+        title="Heaven meets Hell"
+        description="Come explore the odd, weird, dark, creepy art of an artist who had a near death experience."
+        author="Audrey Winter"
       />
       <Hero />
       <FeaturedProducts />

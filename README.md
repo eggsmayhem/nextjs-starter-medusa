@@ -1,15 +1,16 @@
 <p align="center">
   <a href="https://www.medusajs.com">
-    <img alt="Medusa" src="https://user-images.githubusercontent.com/7554214/153162406-bf8fd16f-aa98-4604-b87b-e13ab4baf604.png" width="100" />
+    <img alt="Medusa" src="https://user-images.githubusercontent.com/91620216/197357924-7ecbbce9-7e29-4d55-be6d-76c4dffb4f1c.png" width="100" />
   </a>
 </p>
 
 <h1 align="center">
-  Medusa Next.js Starter
+  Medusa for Artists
 </h1>
 
 <p align="center">
-Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
+Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences. This project builds on top of it to bring
+it close to artists!
 </p>
 
 <p align="center">
@@ -27,13 +28,28 @@ Medusa is an open-source headless commerce engine that enables developers to cre
   </a>
 </p>
 
-> **Prerequisites**: To use the starter you should have a Medusa server running locally on port 9000. Check out [medusa-starter-default](https://github.com/medusajs/medusa-starter-default) for a quick setup.
+> **Prerequisites**: To use the starter you should have a Medusa server running locally on port 9000. Check out [medusa](https://github.com/eggsmayhem/medusa) for a quick setup.
 
 # Overview
 
-![next-starter](https://user-images.githubusercontent.com/45367945/182571697-a68c502f-5844-4eea-8735-7683f775ac8b.png)
+![banner](https://user-images.githubusercontent.com/91620216/197358920-7c238de0-bf1c-4f86-9512-1441fa6cd1e8.png)
 
-The Medusa Next.js Starter is built with:
+Changes over the Next.js starter:
+
+- Site structure optimized for artists
+- Dramatic color scheme
+- SEO
+- Email list integration through Mailchimp
+- Carousel to display past works
+- Separate page highlighting commissionable art by category
+
+Going forward:
+
+- [ ] Simplified admin panel
+- [ ] Artist can update commissions page through admin panel, decreasing need for developer intervention
+- [ ] Associate images with variant type at checkout for clearner customer experience
+
+Medusa for artists is built with:
 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)

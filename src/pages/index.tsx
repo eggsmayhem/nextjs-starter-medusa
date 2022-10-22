@@ -20,7 +20,7 @@ const Home: NextPageWithLayout = () => {
 }
 
 Home.getLayout = (page: ReactElement) => {
-  return <Layout>{page}</Layout>
+  return <Layout footerBanner="carousel">{page}</Layout>
 }
 
 export default Home

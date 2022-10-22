@@ -2,12 +2,17 @@ import Footer from "@modules/layout/templates/footer"
 import Nav from "@modules/layout/templates/nav"
 import React from "react"
 
-const Layout: React.FC = ({ children }) => {
+interface Props  {
+  footerBanner: string,
+  children?: JSX.Element,
+};
+
+const Layout: React.FC<Props> = ({ children, footerBanner } : Props) => {
   return (
     <div>
       <Nav />
       <main className="relative">{children}</main>
-      <Footer />
+      <Footer footerBanner={footerBanner}/>
     </div>
   )
 }

@@ -47,7 +47,7 @@ Going forward:
 
 - [ ] Simplified admin panel
 - [ ] Artist can update commissions page through admin panel, decreasing need for developer intervention
-- [ ] Associate images with variant type at checkout for clearner customer experience
+- [ ] Associate images with variant type at checkout for cleaner customer experience
 
 Medusa for artists is built with:
 

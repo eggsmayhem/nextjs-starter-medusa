@@ -45,6 +45,6 @@ const Commissions: NextPageWithLayout = () => {
   )
 }
 
-Commissions.getLayout = (page) => <Layout>{page}</Layout>
+Commissions.getLayout = (page) => <Layout footerBanner="commissions-form">{page}</Layout>
 
 export default Commissions

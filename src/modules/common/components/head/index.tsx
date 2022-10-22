@@ -11,7 +11,7 @@ type HeadProps = {
 const Head: React.FC<HeadProps> = ({ title, description, image, author }) => {
   return (
     <NextHead>
-      <title>{title} | ACME</title>
+      <title>{title} | EyeBall</title>
       <meta itemProp="name" content={title} />
       {description && <meta itemProp="description" content={description} />}
       {image && <meta itemProp="image" content={image} />}

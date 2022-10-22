@@ -11,7 +11,7 @@ const Store: NextPageWithLayout = () => {
 
   return (
     <>
-      <Head title="Store" description="Explore all of our products." />
+      <Head title="Audrey Winter Store" description="The Audrey Winter store is the only store where you can get art and hoodies from concepts derived from dark surrealism,near death experiences, self-induced physiological torment, as well as inwards exploration." author="Audrey Winter"/>
       <div className="flex flex-col small:flex-row small:items-start py-6">
         <RefinementList refinementList={params} setRefinementList={setParams} />
         <InfiniteProducts params={params} />

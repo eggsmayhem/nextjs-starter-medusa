@@ -9,8 +9,9 @@ const Home: NextPageWithLayout = () => {
   return (
     <>
       <Head
-        title="Home"
-        description="Shop all available models only at the ACME. Worldwide Shipping. Secure Payment."
+        title="Heaven meets Hell"
+        description="Come explore the odd, weird, dark, creepy art of an artist who had a near death experience."
+        author="Audrey Winter"
       />
       <Hero />
       <FeaturedProducts />

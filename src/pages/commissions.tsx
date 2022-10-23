@@ -14,8 +14,8 @@ const Commissions: NextPageWithLayout = () => {
             url1="/six.jpg"
             url2="/pinkcat.jpg"
             url3="Unholey.jpg"
-            des1="an interpretation of the world on fire from angels judgment"
-            des2="a watermelon theme of a playful pink panther on a background of green and black."
+            des1="an interpretation of the end of the world due to capitalism"
+            des2="a pack of 4 watermelon themed coasters of a playful pink panther on a background of green and black."
             des3="a block of holey cheese if were poked with a searing hot staff"
           />
           <Gallery
@@ -33,7 +33,7 @@ const Commissions: NextPageWithLayout = () => {
             url2="/eyetable.jpg"
             url3="/butterfly.jpg"
             des1="A glow in the dark Toilet Paper Bathroom Sign that reads 'Shit tickets' in old english"
-            des2="a three-tier eye ball table. The top tier has a bloodshot blue eye with blood hand prints on the corners. The second tier has a red border with a black center. The bottom tier is blue"
+            des2="a three-tier eye ball table on wheels. The top tier has a bloodshot blue eye with blood hand prints on the corners. The second tier has a red border with a black center. The bottom tier is blue"
             des3="Light blue and purple wall mounted buttterfly supports that can handle light weight items"
           />
           <Gallery

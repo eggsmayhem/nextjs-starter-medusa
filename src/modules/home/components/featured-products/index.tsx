@@ -14,7 +14,7 @@ const FeaturedProducts = () => {
             Featured art
           </span>
           <p className="text-2xl-regular max-w-lg mb-4">
-            Find something for you our in latest art collection.
+            Browse the latest art, accessories, and apparel for sale
           </p>
           <UnderlineLink href="/store">Explore art</UnderlineLink>
         </div>

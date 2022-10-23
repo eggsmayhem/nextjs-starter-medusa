@@ -62,11 +62,15 @@ Medusa for artists is built with:
 
 An attractive Carousel on your storefront can show your customers your past work by category and extend your site from a mere store to clearly offering custom commissions as well, a seamless feature to help artists sell more art
 
+![carousel](https://user-images.githubusercontent.com/91620216/197407995-c96f840e-370b-495f-abeb-23abaed97058.gif)
+
 ### Gallery and Commissions
 
 This template includes a customizable Gallery componenet where the artist can display their past works by category/medium.
 
 An artist can easily plug in their past works for a nicely-formatted Gallery, along with a link to contact the artist about commissioning custom work
+
+![commissions](https://user-images.githubusercontent.com/91620216/197408427-16512e2c-fc76-4fa7-a051-8b90b8ff519b.gif)
 
 # Quickstart
 

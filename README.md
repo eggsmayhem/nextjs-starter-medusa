@@ -18,7 +18,7 @@
 
 [nebocoder](https://github.com/nebocoder) / nebocoder#9007 / [twitter](https://twitter.com/nebocoder)
 
-[sabakhilji](https://github.com/sabakhilji) / sabakhilji#624
+[sabakhilji](https://github.com/sabakhilji) / sabakhilji#624 / [twitter](https://twitter.com/sabakhilji1)
 
 [ryanohcodes](https://github.com/ryanohcodes) / ChocOhPi#1258 / [twitter](https://twitter.com/RyanOhCodes)
 

@@ -109,6 +109,10 @@ MEDUSA_PUBLIC_PAYPAL_CLIENT_ID=<your-paypal-client-id>
 
 You will also need to setup the integrations in your Medusa server. See the [Medusa documentation](https://docs.medusajs.com) for more information on how to configure [Stripe](https://docs.medusajs.com/add-plugins/stripe) and [PayPal](https://docs.medusajs.com/add-plugins/paypal) in your Medusa project.
 
+# SEO integration
+
+There are several implentations to further optimize SEO. One such implentation is the careful curation of meta data. In addition, the starter has been populated with meaningful semantic and alt tags. All of which increase accessibility for all. 
+
 # Search integration
 
 This starter is configured to support using the `medusa-search-meilisearch` plugin out of the box. To enable search you will need to enable the feature flag in `./store-config.json`, which you do by changing the config to this:

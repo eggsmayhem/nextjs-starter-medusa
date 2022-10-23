@@ -39,7 +39,7 @@ Changes over the Next.js starter:
 - Site structure optimized for artists
 - Dramatic color scheme
 - SEO
-- Email list integration through Mailchimp
+- Focus indicator for increased accessibility 
 - Carousel to display past works
 - Separate page highlighting commissionable art by category
 
@@ -55,6 +55,18 @@ Medusa for artists is built with:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Medusa](https://medusajs.com/)
+
+## Out-of-the-box Artist Features
+
+### Storefront Carousel
+
+An attractive Carousel on your storefront can show your customers your past work by category and extend your site from a mere store to clearly offering custom commissions as well, a seamless feature to help artists sell more art
+
+### Gallery and Commissions
+
+This template includes a customizable Gallery componenet where the artist can display their past works by category/medium.
+
+An artist can easily plug in their past works for a nicely-formatted Gallery, along with a link to contact the artist about commissioning custom work
 
 # Quickstart
 

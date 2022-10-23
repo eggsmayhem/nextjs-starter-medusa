@@ -26,7 +26,7 @@ const Hero = () => {
         priority={true}
         quality={90}
         objectFit="cover"
-        alt="Artwork titled 'R1L' by EyeBall"
+        alt="Artwork titled 'R1L' by EyeBall - it features a two-headed blue demonic mouse with a green nose and sharp teeth and claws. It is also wearing a green jewel with a yellow star betwen both heads"
         className="absolute inset-0"
         draggable="false"
       />

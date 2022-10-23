@@ -11,7 +11,7 @@ export default class NextJsCarousel extends Component {
 					
 					<Image
 					src="/butterfly.jpg"
-					alt="decor item"
+					alt="Light blue and purple wall mounted buttterfly supports that can handle light weight items"
 				    layout="fill"
 					/>
 					<p className="legend">Decor</p>
@@ -21,7 +21,7 @@ export default class NextJsCarousel extends Component {
 				<div>
 					<Image 
 					src="/eyetable.jpg" 
-					alt="decor item"
+					alt="a three-tier eye ball table on wheels. The top tier has a bloodshot blue eye with blood hand prints on the corners. The second tier has a red border with a black center. The bottom tier is blue"
 					layout="fill" 
 					 />
 					<p className="legend">Decor</p>
@@ -31,7 +31,7 @@ export default class NextJsCarousel extends Component {
 				<div>
 					<Image 
 					src="/Dialogue.jpg" 
-					alt="painting"
+					alt="a depiction of battle representing the colors of Belgium flag. The soldiers at war on the black and red colors"
 					layout="fill"
 					/>
 					<p className="legend">Painting</p>
@@ -41,7 +41,7 @@ export default class NextJsCarousel extends Component {
 				<div>
 					<Image
 					src="/six.jpg" 
-					alt="painting" 
+					alt="an interpretation of the end of the world due to capitalism" 
 					layout="fill"/>
 					<p className="legend">Painting</p>
 
@@ -50,7 +50,7 @@ export default class NextJsCarousel extends Component {
 				<div>
 					<Image
 					src="/shit.jpg" 
-					alt="sticker" 
+					alt="A glow in the dark Toilet Paper Bathroom Sign that reads 'Shit tickets' in old english" 
 					layout="fill"/>
 					<p className="legend">Sticker</p>
 
@@ -59,7 +59,7 @@ export default class NextJsCarousel extends Component {
 				<div>
 					<Image
 					src="/stickergroup.jpg" 
-					alt="sticker" 
+					alt="a collection of psychotic and weird stickers" 
 					layout="fill"/>
 					<p className="legend" >Sticker</p>
 
@@ -68,7 +68,7 @@ export default class NextJsCarousel extends Component {
 				<div>
 					<img
 					src="/crow.jpg" 
-					alt="tattoo"
+					alt="A black drunk bird dropping its bottle"
 					/>
 					<p className="legend">Tattoo</p>
 
@@ -77,7 +77,7 @@ export default class NextJsCarousel extends Component {
 				<div>
 					<Image 
 					src="/love.jpg" 
-					alt="tattoo"
+					alt="A tattoo of the text 'Love After Pain' writen in olde english"
 					layout="fill" />
 					<p className="legend">Tattoo</p>
 

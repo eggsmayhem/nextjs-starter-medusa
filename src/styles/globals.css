@@ -109,4 +109,23 @@
   .text-3xl-semi {
     @apply text-[36px] leading-[48px] font-semibold;
   }
+  
+  *:focus { 
+    /* some exciting focus styles */ 
+    outline: 0.1em #e1cc12 solid;
+    outline-offset: 0.1rem;
+  }
+  
+  *:focus:not(:focus-visible) {
+    /* undo all the above focus styles */
+    outline: 0;
+    outline-offset: 0.25rem;
+  }
+  
+  *:focus-visible { 
+    /* some even *more* exciting button focus styles, just for keyboard navigators */
+    outline: 0.25em #e1cc12 dashed;
+    outline-offset: 0.25rem;
+  }
+  
 }

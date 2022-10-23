@@ -14,7 +14,17 @@
 
 ### Participants
 
+[eggsmayhem](https://github.com/eggsmayhem) / eggsmayhem#1482 / [twitter](https://twitter.com/eggs_mayhem)
+
+[nebocoder](https://github.com/nebocoder) / nebocoder#9007 / [twitter](https://twitter.com/nebocoder)
+
+[sabakhilji](https://github.com/sabakhilji) / sabakhilji#624
+
+[ryanohcodes](https://github.com/ryanohcodes) / ChocOhPi#1258 / [twitter](https://twitter.com/RyanOhCodes)
+
 ### Description
+
+Bringing the Medusa Next-js storefront closer to artists with Gallery and Commissions display features
 
 ### Preview
 
